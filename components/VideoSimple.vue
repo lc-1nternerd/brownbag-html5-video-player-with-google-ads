@@ -73,7 +73,7 @@ onBeforeUnmount(() => {
 
 <template>
     <div class="relative flex items-center justify-center h-[400px] w-auto">
-        <video ref="videoRef" class="object-cover h-auto w-full" style="aspect-ratio: auto; max-height: 100%;">
+        <video ref="videoRef" class="object-cover h-auto w-full" crossorigin="anonymous" style="aspect-ratio: auto; max-height: 100%;">
             <source :src="props.url" type="video/mp4"/>
         </video>
 
