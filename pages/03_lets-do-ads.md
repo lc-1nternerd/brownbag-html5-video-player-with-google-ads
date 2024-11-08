@@ -65,7 +65,7 @@ The pesudo-code structure for this will look something like this:
 layout: section
 ---
 
-# Hooow long do you want to edge me senpai??
+# When will we actually see some code??
 
-Ook ok, we'll take a look at some code nau(.ch)  
-_aka es is 11:40 und i hab ka zeit für a full fledged demo_
+Ook ok, we'll take a look at some code now! 🙏
+_aka es is 11:40 und i hab ka zeit für eine interaktive demo_

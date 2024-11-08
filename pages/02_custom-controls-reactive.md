@@ -45,5 +45,5 @@ This gets even more interesting with video seeking and volume changing ...
 <br/>
 
 <v-click>
-✨ But it works even CSS only .. quick nau.ch demo ✨
+✨ But it works even CSS only .. quick demo ✨
 </v-click>
