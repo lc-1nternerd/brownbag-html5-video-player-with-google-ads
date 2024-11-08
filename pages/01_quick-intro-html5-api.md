@@ -35,7 +35,7 @@ Or rather the `HTMLMediaElement`
 
 
 <div class="flex flex-wrap gap-4">
-    <video controls class="w-[400px]" id="demo-vid">
+    <video controls class="w-[400px]" id="demo-vid" crossorigin="anonymous">
         <source src="http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4" type="video/mp4" />
     </video>
     <div class="flex flex-col gap-4">
