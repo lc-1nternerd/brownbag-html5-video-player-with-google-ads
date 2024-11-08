@@ -30,7 +30,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build -- --base /dart-web-talk-slides/
+        run: npm run build -- --base /brownbag-html5-video-player-with-google-ads/
 
       - uses: actions/configure-pages@v4
 
