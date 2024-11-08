@@ -41,13 +41,7 @@ layout: section
 
 ---
 
-# Enough talking little dipshit, how do you integrate for the sweet sweet 💰🤑??
-
-<v-click>First of all, <em>dipshit</em> okay, but I am not little!</v-click>
-
-<br/>
-<br/>
-
+# Enough talking dipshit, how do you integrate for the sweet sweet 💰🤑??
 <v-click>
 
 We basically need a parent element that wraps both the native `<video>` element and the Google Ad container.

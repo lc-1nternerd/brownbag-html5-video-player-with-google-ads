@@ -33,10 +33,15 @@ onMounted(() => {
 </v-click>
 
 <v-click>
-This gets even more interesting with video seeking and volume changing ... Range inputs are a hell of an element 🫠
+This gets even more interesting with video seeking and volume changing ...
 </v-click>
 
 <br/>
+
+<v-click>
+... And then there is styling ... Range inputs are a hell of an element 🫠
+</v-click>
+
 <br/>
 
 <v-click>
